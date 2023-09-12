@@ -3,7 +3,7 @@ description: Countdowns to top Networking & Communications conference deadlines.
 author: todo
 
 domain: ""
-# baseurl: "https://noise-lab.net/networking-deadlines"
+baseurl: "https://netcomcdl.github.io/"
 # Use this baseurl for local testing with `jekyll serve`
 # baseurl: ""
 
